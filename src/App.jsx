@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import RegisterPage from "./pages/RegisterPage";
 import LoginPage from "./pages/LoginPage";
 import { AuthProvider } from "./context/AuthContext";
-import PreguntasPage from "./pages/preguntasPage";
+import PreguntasPage from "./pages/PreguntasPage";
 import PreguntaFormPage  from "./pages/PreguntaFormPage";
 import ProfilePage from "./pages/ProfilePage";
 import HomePage from "./pages/HomePage";
